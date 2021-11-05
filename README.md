@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <img src="https://github.com/MultiCatt/img/greetings.gif" width="100%">
   <br><br>
    <samp>
     Hi <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, I'm Thanh An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student of class K19, Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology (HCMUT) 
