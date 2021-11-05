@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="75%"></p>
+<p align="center"><img align="center" src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="65%"></p>
 <p align="left">
    <samp>
     Hi <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, I'm Thanh An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student of class K19, Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology (HCMUT), i'm trying my best to add some fun to places where your face might show up.
@@ -21,9 +21,9 @@
 [<img src="img/17551198851579517841.svg" width="30px">](https://www.facebook.com/nguyenthanhan1407/) 
 [<img src="img/Gmail_icon_(2020).svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
 
-<h4><h3 align="center"  >Genius is one percent inspiration and ninety-nine percent perspiration </h3></h4>
+<h4><h2 align="center"  >Genius is one percent inspiration and ninety-nine percent perspiration </h2></h4>
 
-<p align="center" ><img alt="GIF" src="img/ac6643e48c03be38c756ddb2baa0f4eb.gif" width="50%"/></p>
+<p align="center" ><img alt="GIF" src="img/ac6643e48c03be38c756ddb2baa0f4eb.gif" width="65%"/></p>
 
 
 <br><br>
