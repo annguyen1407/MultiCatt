@@ -19,13 +19,11 @@
 
 ## :mailbox: Get in touch: 💬
 [<img src="img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/duyenthang-dev/)
-[<img src="img/icons8-dev.svg" width="30px">](https://dev.to/)
-[<img src="img/icons8-twitter.svg" width="30px">](https://twitter.com/)
-[<img src="img/icons8-important-mail.svg" width="30px">](mailto:duyenthang.dev@gmail.com)
-[<img src="img/fb-icon.png" width="30px">](https://www.facebook.com/duyenthang.5601/)
+[<img src="img/icons8-important-mail.svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
+[<img src="img/fb-icon.png" width="30px">](https://www.facebook.com/nguyenthanhan1407/)
 
 <samp>Vẻ đẹp không nằm ở đôi má hồng của người thiếu nữ mà ở trong con mắt của kẻ si tình</samp>
 <img alt="GIF" src="img/dino_rounded.gif" />
 -----
 
-Last Edited on: 31/10/2021
+Last Edited on: 05/11/2021
