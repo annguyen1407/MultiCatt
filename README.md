@@ -18,7 +18,7 @@
 
 
 ## :mailbox: Get in touch: 💬
-[<img src="img/icons8-linkedin.svg" width="30px">](https://www.linkedin.com/in/duyenthang-dev/)
+[<img src="img/instagram-2-1-logo-svgrepo-com.svg" width="30px">](https://www.instagram.com/multikattt.__/)
 [<img src="img/icons8-important-mail.svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
 [<img src="img/fb-icon.png" width="30px">](https://www.facebook.com/nguyenthanhan1407/)
 
