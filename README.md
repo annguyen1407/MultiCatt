@@ -2,10 +2,10 @@
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
   <br><br>
    <samp>
-    Chào <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, Mình là Thành An <a href="https://github.com/duyenthang-dev">@duyenthang_dev :octocat:</a>. Sinh viên khoá K19 khoa Khoa học và Kĩ thuật Máy tính, trường đại học Bách khoa Hồ Chí Minh (HCMUT)
+    Chào <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, Mình là Thành An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Sinh viên khoá K19 khoa Khoa học và Kĩ thuật Máy tính, trường đại học Bách khoa Hồ Chí Minh (HCMUT)
   </samp> <br/>
 <!--   <samp>
-    Hi,<img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px"> I'm Thành An <a href="https://github.com/duyenthang-dev">@duyenthang_dev :octocat:</a>. Student at HCMUT, Vietnam
+    Hi,<img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px"> I'm Thành An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student at HCMUT, Vietnam
   </samp> -->
 </p>
 
