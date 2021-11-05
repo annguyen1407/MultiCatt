@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MultiCatt/img/greetings.gif" width="100%">
+  <img src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="45%">
   <br><br>
    <samp>
     Hi <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, I'm Thanh An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student of class K19, Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology (HCMUT) 
@@ -24,7 +24,7 @@
 [<img src="img/fb-icon.png" width="30px">](https://www.facebook.com/nguyenthanhan1407/)
 
 <samp>They say good things take times, that’s why I’m always late 🐧 </samp>
-<img alt="GIF" src="img/dino_rounded.gif" /> 
+<img align="center" alt="GIF" src="img/dino_rounded.gif" width="70%"/> 
 -----
 
 Last Edited on: 05/11/2021
