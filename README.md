@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="45%">
+<p align="center"><img align="center" src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="50%"></p>
+<p align="left">
   <br>
 
    <samp>
@@ -19,8 +19,8 @@
 <img src="img/icons8-php-logo.svg" width="50px"><img src="img/c++.png" width="50px"><img src="img/java.png" width="50px">
 
 ##    Get in touch: 📱
-[<img src="img/instagram-2-1-logo-svgrepo-com.svg" width="30px">](https://www.instagram.com/multikattt.__/)
-[<img src="img/17551198851579517841.svg" width="30px">](https://www.facebook.com/nguyenthanhan1407/)
+[<img src="img/instagram-2-1-logo-svgrepo-com.svg" width="30px">](https://www.instagram.com/multikattt.__/) 
+[<img src="img/17551198851579517841.svg" width="30px">](https://www.facebook.com/nguyenthanhan1407/) 
 [<img src="img/Gmail_icon_(2020).svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
 
 <h4><h3 align="center"  >Genius is one percent inspiration and ninety-nine percent perspiration </h3></h4>
