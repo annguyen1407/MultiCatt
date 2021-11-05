@@ -25,7 +25,7 @@
 
 <h4><h3 align="center"  >Genius is one percent inspiration and ninety-nine percent perspiration </h3></h4>
 
-<p align="center" ><img alt="GIF" src="img/dino_rounded.gif" width="50%"/></p>
+<p align="center" ><img alt="GIF" src="img/ac6643e48c03be38c756ddb2baa0f4eb.gif" width="50%"/></p>
 
 
 <br><br>
