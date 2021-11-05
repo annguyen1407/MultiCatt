@@ -21,6 +21,6 @@
 [<img src="img/17551198851579517841.svg" width="30px">](https://www.facebook.com/nguyenthanhan1407/) 
 [<img src="img/Gmail_icon_(2020).svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
 
-<h4><h2 align="center"  >Genius is one percent inspiration and ninety-nine percent perspiration </h2></h4>
+<h4><h2 align="center"  >Genius is one percent inspiration and ninety-nine percent endeavor </h2></h4>
 
 <p align="center" ><img alt="GIF" src="img/ac6643e48c03be38c756ddb2baa0f4eb.gif" width="40%"/></p>
