@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="60%"></p>
 <p align="left">
    <samp>
-    Hi <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, I'm Thanh An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student of class K19, Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology (HCMUT), i'm trying my best to add some fun to places where your face might show up.
+    Hi <img src="https://github.com/duyenthang-dev/duyenthang-dev/blob/main/img/Hi.gif" width="20px">, I'm Thanh An <a href="https://github.com/MultiCatt">@MultiCatt :octocat:</a>. Student of Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology K19, i'm trying my best to add some fun to places where your face might show up.
 
   </samp> <br/>
 <!--   <samp>
