@@ -12,9 +12,9 @@
  ##    Languages and Tools: 🛠
  <img align ="right" src="img/coding-freak.gif" width="26%" >
 
-<img src="img/icons8-html-5.svg" width="50px"><img src="img/icons8-css3.svg" width="50px"> <img src="img/icons8-bootstrap.svg" width="50px"><img src="img/icons8-javascript-logo.svg" width="50px"><img src="img/icons8-react.svg" width="50px"><img src="img/icons8-nodejs.svg" width="50px"><img src="img/icons8-mongodb.svg" width="50px"><img src="img/icons8-git.svg" width="50px"><img src="img/icons8-github.svg" width="50px">
+<img src="img/icons8-html-5.svg" width="50px"><img src="img/icons8-css3.svg" width="50px"> <img src="img/icons8-bootstrap.svg" width="50px"><img src="img/icons8-javascript-logo.svg" width="50px"><img src="img/icons8-react.svg" width="50px"><img src="img/icons8-nodejs.svg" width="50px"><img src="img/icons8-git.svg" width="50px"><img src="img/icons8-github.svg" width="50px">
 
-<img src="img/icons8-php-logo.svg" width="50px"><img src="img/c++.png" width="50px"><img src="img/java.png" width="50px">
+<img src="img/c++.png" width="50px">
 
 ##    Get in touch: 📱
 [<img src="img/instagram-2-1-logo-svgrepo-com.svg" width="30px">](https://www.instagram.com/multikattt.__/) 
