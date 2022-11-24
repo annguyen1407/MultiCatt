@@ -17,7 +17,6 @@
 <img src="img/c++.png" width="50px">
 
 ##    Get in touch: 📱
-[<img src="img/instagram-2-1-logo-svgrepo-com.svg" width="30px">](https://www.instagram.com/multikattt.__/) 
 [<img src="img/17551198851579517841.svg" width="30px">](https://www.facebook.com/nguyenthanhan1407/) 
 [<img src="img/Gmail_icon_(2020).svg" width="30px">](mailto:nguyenthanhan140701@gmail.com)
 
