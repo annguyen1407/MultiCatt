@@ -1,7 +1,7 @@
 <p align="center"><img align="center" src="https://github.com/MultiCatt/MultiCatt/blob/main/img/greetings.gif" width="60%"></p>
 <p align="left">
    <samp>
-    Hi, I'm Thanh An <a href="https://github.com/annguyen1407">@annguyen1407 :octocat:</a>, student of Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology K19 and i'm trying my best to add some fun to places where your face might show up!
+    Hi, I'm Thanh An <a href="https://github.com/annguyen1407">@annguyen1407, student of Faculty of Computer Science and Engineering, Ho Chi Minh University of Technology K19 and i'm trying my best to add some fun to places where your face might show up!
 
   </samp> <br/>
 <!--   <samp>
